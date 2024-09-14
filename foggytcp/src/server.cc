@@ -12,7 +12,7 @@
 #include <fstream>
 #include <iostream>
 using namespace std;
-
+ 
 #include "foggy_tcp.h"
 
 #define BUF_SIZE 4096
