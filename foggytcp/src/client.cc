@@ -13,7 +13,7 @@ from releasing their forks in any public places. */
 using namespace std;
 
 #include "foggy_tcp.h"
- 
+   
 #define BUF_SIZE 4096
 
 /**
